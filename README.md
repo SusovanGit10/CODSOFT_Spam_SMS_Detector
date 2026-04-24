@@ -1,5 +1,11 @@
 # 📱 Spam SMS Detector
 
+## 🌍 Live Demo
+
+👉 [Click here to try the app](https://codsoftspamsmsdetector-gscy8fmxygihjyzazz52p7.streamlit.app/)
+
+---
+
 A Machine Learning web application that classifies SMS messages as **Spam** or **Legitimate** using Natural Language Processing (NLP).
 
 ---
